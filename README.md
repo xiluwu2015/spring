@@ -13,3 +13,7 @@
 
 ** createDiscoIQReference **  
 
+** getNodeJSON, jsonToXML,  buildAEMFragHierarchy, buildFragmentPage**
+
+# ? how to gatherAssets
+- ref.doc, select src, video, 
